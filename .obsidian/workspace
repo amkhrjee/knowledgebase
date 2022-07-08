@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "1eef0737789040a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc57633f492b090e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5675013847b1f344",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b31b8f757a85586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a376c0ca0f24629",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fe71253b33b9819",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb604f0fb22125e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "23c567c8d311a5e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48ed4f52e0ec1646",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dc57633f492b090e",
+  "lastOpenFiles": [
+    "Coursera/Learning How to Learn/Chunking Draft.md",
+    "Coursera/Learning How to Learn/Interleaving.md",
+    "Coursera/Learning How to Learn/Chunking.md",
+    "Coursera/Learning How to Learn/Einstellung.md",
+    "Coursera/Learning How to Learn/Modes of Learning.md",
+    "Coursera/Learning How to Learn/Retrieval Reading + More.md",
+    "Untitled.md"
+  ]
+}
