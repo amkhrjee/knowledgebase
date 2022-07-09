@@ -7,8 +7,12 @@
         "id": "dc57633f492b090e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Coursera Courses/Learning How to Learn/Habits.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Coursera Courses/Learning How to Learn/Habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,12 +89,15 @@
   },
   "active": "dc57633f492b090e",
   "lastOpenFiles": [
+    "Coursera Courses/Learning How to Learn/Habits.md",
+    "Coursera Courses/Learning How to Learn/Process over Product.md",
+    "Coursera Courses/Learning How to Learn/The Test Checklist.md",
     "Coursera/Learning How to Learn/Chunking Draft.md",
-    "Coursera/Learning How to Learn/Interleaving.md",
-    "Coursera/Learning How to Learn/Chunking.md",
-    "Coursera/Learning How to Learn/Einstellung.md",
-    "Coursera/Learning How to Learn/Modes of Learning.md",
-    "Coursera/Learning How to Learn/Retrieval Reading + More.md",
+    "Coursera Courses/Learning How to Learn/Interleaving.md",
+    "Coursera Courses/Learning How to Learn/Chunking.md",
+    "Coursera Courses/Learning How to Learn/Einstellung.md",
+    "Coursera Courses/Learning How to Learn/Modes of Learning.md",
+    "Coursera Courses/Learning How to Learn/Retrieval Reading + More.md",
     "Untitled.md"
   ]
 }
